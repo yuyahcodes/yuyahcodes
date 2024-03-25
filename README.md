@@ -17,7 +17,7 @@ I'm a 25-year-old Developer based in Tanzania, and I'm passionate about crafting
 
 **Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
 
-**Others:** `ShadCn` `Zustand` `Wordpress` `Scrum` `Confluence` `Jira`
+**Others:** `ShadCn` `Zustand` `Wordpress` `Scrum` `Jira`
  
 ## ✨ Fun Facts 
 
