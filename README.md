@@ -1,3 +1,5 @@
+<samp>
+
 ### Hey, I'm Yusuph 👋🏽  
 
 I'm a 25-year-old Developer based in Tanzania, and I'm passionate about crafting digital experiences. 
@@ -27,4 +29,7 @@ I'm a 25-year-old Developer based in Tanzania, and I'm passionate about crafting
 ## 📫 Contact
 
  For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/yusuphabasi/). 
+
+ </samp>
+
  
