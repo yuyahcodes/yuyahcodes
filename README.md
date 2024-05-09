@@ -13,13 +13,13 @@ I'm a 25-year-old Developer based in Tanzania, and I'm passionate about crafting
  
 **Version Control:** `Git` `GitLab` `Bitbucket`
 
-**Backend Development:** `Django` `Laravel` `Firebase` `Nest.Js` 
+**Backend Development:** `Django` `Laravel` `Firebase`  
 
 **Designer Tools:** `Photoshop` `Illustrator` `Figma` `Canva` 
 
 **Testing:** `Cypress` `Playwright` `Vitest` `Postman` `Insomnia`
 
-**Others:** `ShadCn` `Zustand` `Wordpress` `Scrum` `Jira`
+**Others:** `ShadCn` `Zustand` `Wordpress` `Scrum` 
  
 ## ✨ Fun Facts 
 
