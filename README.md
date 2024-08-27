@@ -24,7 +24,7 @@ I'm a 25-year-old Developer based in Tanzania, and I'm passionate about crafting
 ## ✨ Fun Facts 
 
 - Demon Slayer is my favorite anime.
-- As a kid, I wanted to be an Pilot.
+- As a kid, I wanted to be an Pilot But here i am writing code for a living.
 
 ## 📫 Contact
 
